@@ -20,6 +20,8 @@ body{
 
 .menu-icon img{
         position: absolute;
+        width: 30.23px;
+        height: 16.06px;
         left: 22px;
         top: 50px;
 }
