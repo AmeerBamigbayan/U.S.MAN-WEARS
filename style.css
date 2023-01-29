@@ -28,7 +28,14 @@ body{
     position: absolute;
     width: 157.21px;
     height: 54.42px;
-    left: 114.88px;
+    left: 110.88px;
     top: 30px;
+}
 
+.search img{
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 295px;
+    top: 50px;   
 }
