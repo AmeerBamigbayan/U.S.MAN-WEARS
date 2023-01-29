@@ -21,6 +21,14 @@ body{
 .menu-icon img{
         position: absolute;
         left: 22px;
-        top: 44px;
+        top: 50px;
+}
+
+.logo img{
+    position: absolute;
+    width: 157.21px;
+    height: 54.42px;
+    left: 114.88px;
+    top: 30px;
 
 }
