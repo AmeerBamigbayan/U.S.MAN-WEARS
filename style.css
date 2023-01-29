@@ -12,9 +12,15 @@ body{
     flex-direction: column;
     justify-content: center;
     background-color: #fff;
-    
     background-size: cover;
     
 
     /*min-height: 100vh;*/
+}
+
+.menu-icon img{
+        position: absolute;
+        left: 22px;
+        top: 44px;
+
 }
