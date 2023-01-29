@@ -36,6 +36,14 @@ body{
     position: absolute;
     width: 22px;
     height: 22px;
-    left: 295px;
+    left: 298px;
     top: 50px;   
+}
+
+.cart img{
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 335px;
+    top: 50px;
 }
